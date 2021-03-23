@@ -5,6 +5,8 @@
   podemos definir uma addfunção e, subsequentemente, uma incfunção de argumento único , simplesmente
 -}
 
+add :: Num a => a -> a -> a
 add x y = x + y
 
+inc :: Integer -> Integer
 inc = add 3
