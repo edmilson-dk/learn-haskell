@@ -1,10 +1,10 @@
-# O que aprendi hoje
+# What I learned today
 
 - Curry
 - Uncurry
 - Partial Application
 - Básico de listas
 
-## Total de horas de estudo
+## Study time
 
-> 1 hora e 50 minutos
+> 1 hour and 50 minutes

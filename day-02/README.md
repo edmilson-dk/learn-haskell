@@ -1,12 +1,12 @@
-# O que aprendi hoje
+# What I learned today
 
-- O uso da função main
+- Function MAIN
 - Output e input
-- Básico de high order functions
-- Básico de lambda functions
-- Compilar arquivo haskell e gerar executavel
-- Básico de Assinatura de tipo
+- Basic of high order functions
+- Basic of lambda functions
+- Compilation of program for binary executable
+- Basic of type signature
 
-## Total de horas de estudo
+## Study time
 
-> 1 hora e 40 minutos
+> 1 hour and 40 minutes

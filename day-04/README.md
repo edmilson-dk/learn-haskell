@@ -1,4 +1,4 @@
-# O que aprendi hoje
+# What I learned today
 
 - List methods
 - take
@@ -7,6 +7,6 @@
 - putStr and putStrLn
 - replicate
 
-## Total de horas de estudo
+## Study time
 
 > 1 hora

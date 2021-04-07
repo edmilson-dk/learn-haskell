@@ -1,7 +1,7 @@
-# O que aprendi hoje
+# What I learned today
 
 - Basic of List comprehension
 
-## Total de horas de estudo
+## Study time
 
-> 1 hora
+> 1 hour

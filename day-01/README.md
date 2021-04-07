@@ -1,12 +1,12 @@
-# O que aprendi hoje
+# What I learned today 
 
-- O que é Haskell
+- What is haskell
 - GHC
-- Breve introdução ao cabal e stack
-- Nomeclaturas
-- Introdução a Funções
-- Expressão IF
+- Introduction to cabal and stack
+- Namespaces
+- Introduction to function
+- If and Else expression
 
-## Total de horas de estudo
+## Study time
 
-> 1 hora e 20 minutos
+> 1 hour and 20 minutes
