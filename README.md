@@ -16,3 +16,4 @@ My central reason for studying haskell, is the possibility to understand more de
 * [Day 04](https://github.com/edmilson-dk/learn-haskell/blob/main/day-04)
 * [Day 05](https://github.com/edmilson-dk/learn-haskell/blob/main/day-05)
 * [Day 06](https://github.com/edmilson-dk/learn-haskell/blob/main/day-06)
+* [Day 07](https://github.com/edmilson-dk/learn-haskell/blob/main/day-07)
